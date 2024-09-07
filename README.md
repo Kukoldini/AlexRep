@@ -1,2 +1,2 @@
 # AlexRep
-My SWSU rap for studying
+My SWSU rep for studying
